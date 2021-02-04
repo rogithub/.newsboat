@@ -1,5 +1,5 @@
+
 https://news.ycombinator.com/rss
-https://jvns.ca/atom.xml
 
 
 # youtube
@@ -17,3 +17,7 @@ https://www.proceso.com.mx/rss/feed.html?r=1
 https://www.proceso.com.mx/rss/feed.html?r=9
 # Proceso Opinion
 https://www.proceso.com.mx/rss/feed.html?r=5
+
+# Blogs
+# Julia Evans
+https://jvns.ca/atom.xml
