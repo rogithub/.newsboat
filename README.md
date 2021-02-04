@@ -5,7 +5,7 @@
 
 ``` bash
 $ cd
-$ git@github.com:rogithub/.newsboat.git
+$ git clone git@github.com:rogithub/.newsboat.git
 $ apt install newsboat
 $ newsboat
 ```
