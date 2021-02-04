@@ -30,3 +30,10 @@ https://www.jornada.com.mx/rss/edicion.xml?v=1
 https://jvns.ca/atom.xml
 # Ivan Velichko
 https://iximiuz.com/feed.rss
+
+
+# Reddit
+# rss Info https://www.reddit.com/wiki/rss
+https://www.reddit.com/r/movies/.rss
+https://www.reddit.com/r/rust/.rss
+https://www.reddit.com/r/dotnetcore/.rss
