@@ -1,7 +1,6 @@
-# .newsboat
+# My Personal RSS feed for terminal
 
-1. install newsboat
-2. git clone
+## Install
 
 ``` bash
 $ cd
