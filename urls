@@ -45,9 +45,12 @@ https://lwn.net/headlines/rss
 # https://video.fosdem.org/2021/
 
 
-#VS Magazine
+# VS Magazine
 https://visualstudiomagazine.com/rss-feeds/open-source-net.aspx
 https://visualstudiomagazine.com/rss-feeds/blogs.aspx
 https://visualstudiomagazine.com/rss-feeds/practical-net.aspx
 https://visualstudiomagazine.com/rss-feeds/c-corner.aspx
 https://visualstudiomagazine.com/rss-feeds/news.aspx
+
+# Stack Overflow
+https://stackoverflow.blog/feed/
