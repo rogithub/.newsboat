@@ -28,9 +28,14 @@ https://www.jornada.com.mx/rss/edicion.xml?v=1
 # Blogs
 # Julia Evans
 https://jvns.ca/atom.xml
+# Kevin Lynagh
+https://kevinlynagh.com/feed.xml
+
 # Ivan Velichko
 https://iximiuz.com/feed.rss
 
+# geoffrey litt
+https://www.geoffreylitt.com/feed.xml
 
 # Reddit
 # rss Info https://www.reddit.com/wiki/rss
@@ -52,5 +57,13 @@ https://visualstudiomagazine.com/rss-feeds/practical-net.aspx
 https://visualstudiomagazine.com/rss-feeds/c-corner.aspx
 https://visualstudiomagazine.com/rss-feeds/news.aspx
 
+
 # Stack Overflow
 https://stackoverflow.blog/feed/
+
+# k3a blog
+https://k3a.me/feed/
+
+# nice looking blog
+https://tyler.kim/feed.rss
+
