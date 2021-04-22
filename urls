@@ -6,6 +6,7 @@ https://news.ycombinator.com/rss
 # www.youtube.com/feeds/videos.xml?channel_id=CHANNEL_ID
 # cine aparte
 https://www.youtube.com/feeds/videos.xml?channel_id=UCbGYYbuGLFC6wIsyKXXW4cQ
+https://www.reddit.com/r/movies/.rss
 # pulso de la republica
 https://www.youtube.com/feeds/videos.xml?channel_id=UCK0_zBeybLuyXbOcHp7wmJA
 
@@ -29,7 +30,6 @@ https://www.geoffreylitt.com/feed.xml
 
 # Reddit
 # rss Info https://www.reddit.com/wiki/rss
-https://www.reddit.com/r/movies/.rss
 https://www.reddit.com/r/rust/.rss
 https://www.reddit.com/r/dotnetcore/.rss
 
@@ -38,7 +38,6 @@ https://lwn.net/headlines/rss
 
 # FOSDEM
 # https://video.fosdem.org/2021/
-
 
 # Stack Overflow
 https://stackoverflow.blog/feed/
