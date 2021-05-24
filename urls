@@ -5,49 +5,49 @@ https://news.ycombinator.com/rss
 # youtube
 # www.youtube.com/feeds/videos.xml?channel_id=CHANNEL_ID
 # cine aparte
-https://www.youtube.com/feeds/videos.xml?channel_id=UCbGYYbuGLFC6wIsyKXXW4cQ
-https://www.reddit.com/r/movies/.rss
-# pulso de la republica
-https://www.youtube.com/feeds/videos.xml?channel_id=UCK0_zBeybLuyXbOcHp7wmJA
+https://www.youtube.com/feeds/videos.xml?channel_id=UCbGYYbuGLFC6wIsyKXXW4cQ "yt"
+https://www.reddit.com/r/movies/.rss "yt"
+# pulso de la republica 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCK0_zBeybLuyXbOcHp7wmJA "yt"
 
 # Blogs
 # Julia Evans
-https://jvns.ca/atom.xml
+https://jvns.ca/atom.xml "blogs"
 # Kevin Lynagh
-https://kevinlynagh.com/feed.xml
+https://kevinlynagh.com/feed.xml "blogs"
 # unixsheikh
 # ==========
 # Articles and tutorials about open source,
 # BSD and GNU/Linux system administration,
 # and programming - the pragmatic way.
-https://unixsheikh.com/feed.rss
-https://ingrids.space/index.xml
+https://unixsheikh.com/feed.rss "blogs"
+https://ingrids.space/index.xml "blogs"
 
 # Ivan Velichko
-https://iximiuz.com/feed.rss
+https://iximiuz.com/feed.rss "blogs"
 
 # geoffrey litt
-https://www.geoffreylitt.com/feed.xml
+https://www.geoffreylitt.com/feed.xml "blogs"
 
 # Reddit
-# rss Info https://www.reddit.com/wiki/rss
-https://www.reddit.com/r/rust/.rss
-https://www.reddit.com/r/dotnetcore/.rss
+# rss Info https://www.reddit.com/wiki/rss "redit"
+https://www.reddit.com/r/rust/.rss "redit"
+https://www.reddit.com/r/dotnetcore/.rss "redit"
 
 # Linux W net
-https://lwn.net/headlines/rss
+https://lwn.net/headlines/rss "blogs"
 
 # FOSDEM
-# https://video.fosdem.org/2021/
+# https://video.fosdem.org/2021/ "events"
 
 # Stack Overflow
-https://stackoverflow.blog/feed/
+https://stackoverflow.blog/feed/ "blogs"
 
 # k3a blog
-https://k3a.me/feed/
+https://k3a.me/feed/ "blogs"
 
 # nice looking blog
-https://tyler.kim/feed.rss
+https://tyler.kim/feed.rss "blogs"
 
 # escritor it y novelas
-https://mwl.io/feed
+https://mwl.io/feed "blogs"
