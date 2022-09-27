@@ -8,13 +8,12 @@ https://protesilaos.com/master.xml
 http://tilde.town/~ramin_hal9001/atom.xml
 
 # youtube
-# www.youtube.com/feeds/videos.xml?channel_id=CHANNEL_ID
 # cine aparte
-https://www.youtube.com/feeds/videos.xml?channel_id=UCbGYYbuGLFC6wIsyKXXW4cQ "yt"
-https://www.reddit.com/r/movies/.rss "yt"
+https://www.youtube.com/c/LetraslibresMedia/videos
 # pulso de la republica 
-https://www.youtube.com/feeds/videos.xml?channel_id=UCK0_zBeybLuyXbOcHp7wmJA "yt"
-# https://www.youtube.com/c/asianometry
+https://www.youtube.com/c/elpulso/videos
+https://www.youtube.com/c/asianometry/videos
+https://www.reddit.com/r/movies/.rss "yt"
 
 
 # geopolitics
